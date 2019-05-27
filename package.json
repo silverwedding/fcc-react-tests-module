@@ -8,7 +8,7 @@
     "autoprefixer": "6.5.1",
     "babel-core": "6.17.0",
     "babel-eslint": "7.0.0",
-    "babel-jest": "16.0.0",
+    "babel-jest": "23.6.0",
     "babel-loader": "6.2.5",
     "babel-preset-react-app": "^1.0.0",
     "case-sensitive-paths-webpack-plugin": "1.1.4",
